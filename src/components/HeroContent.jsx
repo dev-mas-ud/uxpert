@@ -24,7 +24,7 @@ function HeroContent() {
         type="button"
         className="mt-6 uppercase text-white font-bold px-4 py-2 bg-gradient-to-r from-[#F86642BF] to-[#F86642E5] rounded-lg hover:bg-transparent duration-150 active:scale-95 transition-all"
       >
-        start your risk free trial
+        start your free trial
       </button>
 
       <img
