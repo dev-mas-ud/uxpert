@@ -63,7 +63,7 @@ function Footer() {
         <a
           className="underline"
           style={{ color: "#08CB00" }}
-          href="https://websitesbymasud.vercel.app/"
+          href="https://devmasud.vercel.app/"
         >
           Masud
         </a>

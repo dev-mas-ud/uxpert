@@ -12,7 +12,7 @@ export const faqTips = [
     active: false,
   },
   {
-    tip: "You‘re researching how UX can impact you business growth.",
+    tip: "You're researching how UX can impact you business growth.",
     active: false,
   },
   {
