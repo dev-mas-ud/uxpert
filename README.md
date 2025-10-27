@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a UI/UX design business built with **React** and **Tailwind CSS**. It highlights services, showcases portfolio items, and includes a contact section for potential clients.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./public/screenshot.png)
 
 Live demo: (https://uxpert-theta.vercel.app/)
 
