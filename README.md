@@ -6,19 +6,19 @@ A modern, responsive landing page for a UI/UX design business built with **React
 
 Live demo: (https://uxpert-theta.vercel.app/)
 
-## 🚀 Features
+## Features
 
 - Responsive and mobile-friendly design
 - Clean, minimal UI
 - Reusable React components
 - Built with Tailwind CSS for easy customization
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React**
 - **Tailwind CSS**
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/dev-mas-ud/uxpert.git
